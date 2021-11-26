@@ -1,0 +1,24 @@
+{
+  "name": "netprojector-server",
+  "version": "0.1.0",
+  "description": "Highly configurable, extensible web-based Digital Signage software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "digital",
+    "signage",
+    "projector",
+    "billboard",
+    "network",
+    "projector",
+    "server"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fogasl/netprojector-server"
+  },
+  "author": "fogasl",
+  "license": "BSD-3-Clause"
+}
